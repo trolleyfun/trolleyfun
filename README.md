@@ -1,4 +1,13 @@
-Здравствуйте! Меня зовут Анатолий Гришин. Я начинающий PHP-разработчик.
+# Здравствуйте! 
+Меня зовут Анатолий Гришин. Я начинающий PHP-разработчик. В настоящее время ищу работу, где смог бы применить на практике свои знания и вырасти до граммотного специалиста.
+## Мои навыки
+HTML, CSS, JavaScript, PHP, SQL, Git, Linux
+## Проекты на Github
+### PHP проекты
++ [Блог о путешествиях](https://github.com/trolleyfun/BlogWebSite)
+### HTML&CSS проекты
++ [Сайт-портфолио](https://github.com/trolleyfun/PortfolioWebSite)
++ [Магазин одежды](https://github.com/trolleyfun/ClothesShopWebSite)
 
 <!--
 **trolleyfun/trolleyfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
