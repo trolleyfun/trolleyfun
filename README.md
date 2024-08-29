@@ -4,7 +4,7 @@
 HTML, CSS, JavaScript, PHP, SQL, Git, Linux
 ## Проекты на Github
 ### PHP проекты
-+ [Блог о путешествиях](https://github.com/trolleyfun/BlogWebSite)
++ [Блог о путешествиях](https://github.com/trolleyfun/BlogWebSite) *(в процессе разработки)*
 ### HTML&CSS проекты
 + [Сайт-портфолио](https://github.com/trolleyfun/PortfolioWebSite)
 + [Магазин одежды](https://github.com/trolleyfun/ClothesShopWebSite)
